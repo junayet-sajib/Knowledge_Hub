@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456",
+      "cover_photo_url": "https://unsplash.com/photos/6d-LFrbB-5o",
+      "title": "The Mystery of the Sapphire Gem",
+      "author": "Eleanor Smith",
+      "author_image": "https://unsplash.com/photos/1d6y_YpElx4",
+      "posted_date": "2024-03-15",
+      "reading_time": 12,
+      "hashtags": ["mystery", "adventure", "fiction"]
+    },
+    {
+      "id": "234567",
+      "cover_photo_url": "https://unsplash.com/photos/UQ1oz9w6_5o",
+      "title": "A Journey Through Time",
+      "author": "Jonathan Doe",
+      "author_image": "https://unsplash.com/photos/ezNoay4-f-g",
+      "posted_date": "2024-03-14",
+      "reading_time": 8,
+      "hashtags": ["time-travel", "fantasy", "science-fiction"]
+    },
+    {
+      "id": "345678",
+      "cover_photo_url": "https://unsplash.com/photos/0TYRJZNfZR8",
+      "title": "Secrets of the Forbidden Forest",
+      "author": "Alice Johnson",
+      "author_image": "https://unsplash.com/photos/g1Kr4Ozfoac",
+      "posted_date": "2024-03-13",
+      "reading_time": 15,
+      "hashtags": ["fantasy", "adventure", "magic"]
+    },
+    {
+      "id": "456789",
+      "cover_photo_url": "https://unsplash.com/photos/sT4fqRy6d6s",
+      "title": "The Enigma of the Lost Civilization",
+      "author": "David Brown",
+      "author_image": "https://unsplash.com/photos/5WbYFHBJBmo",
+      "posted_date": "2024-03-12",
+      "reading_time": 20,
+      "hashtags": ["archeology", "mystery", "history"]
+    },
+    {
+      "id": "567890",
+      "cover_photo_url": "https://unsplash.com/photos/ksdNBqE3BZQ",
+      "title": "Beyond the Horizon",
+      "author": "Emily White",
+      "author_image": "https://unsplash.com/photos/Z3nAkm3QvQk",
+      "posted_date": "2024-03-11",
+      "reading_time": 10,
+      "hashtags": ["exploration", "adventure", "science-fiction"]
+    }
+  ]
+  
